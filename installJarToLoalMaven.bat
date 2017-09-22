@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./target/mybatis.generator.plugin-1.0.0.jar -DgroupId=com.mybatis.generator -DartifactId=mybatis.generator.plugin -Dversion=1.0.0 -Dpackaging=jar
